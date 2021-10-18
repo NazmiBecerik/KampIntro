@@ -1,0 +1,13 @@
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).exe
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).deps.json
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).runtimeconfig.json
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).runtimeconfig.dev.json
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).dll
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\bin\Debug\netcoreapp3.1\Methotlar (Methods).pdb
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).csprojAssemblyReference.cache
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).AssemblyInfoInputs.cache
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).AssemblyInfo.cs
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).csproj.CoreCompileInputs.cache
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).dll
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).pdb
+C:\Users\Nazmi\source\repos\KampIntro\Methotlar (Methods)\obj\Debug\netcoreapp3.1\Methotlar (Methods).genruntimeconfig.cache
